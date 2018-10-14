@@ -1,5 +1,5 @@
 ---
-title: Stydy Git : work on github
+title: Stydy Git \:\: work on github
 key: 20180701
 tags: TeXt
 ---
