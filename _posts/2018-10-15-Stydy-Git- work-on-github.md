@@ -1,5 +1,5 @@
 ---
-title: Stydy Git :: work on github
+title: Stydy Git work on github
 key: 20180701
 tags: TeXt
 ---
@@ -14,10 +14,10 @@ PREPARE:
   - [gb] = gitbash-side, [gh] = github-side
 
 STEP:
-[gb]1. ssh-keygen -C "xxx@xxx.com"   # ע��һ��Ҫָ������������key pair
+[gb]1. ssh-keygen -C "xxx@xxx.com"   # 注意一定要指定邮箱来生成key pair
 [gb]1. cat ~/.ssh/id_rsa.pub, then copy output
 [gh]2. github->settings, add ssh pub key
-[gb]3. create project, then git remote -v   # ����ύ��ַ�Ƿ���ȷ
+[gb]3. create project, then git remote -v   # 检查提交地址是否正确
 [gb]4. commit to local, then push to upstream, git push -u origin master
 
 FAQ
