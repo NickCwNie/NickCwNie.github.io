@@ -1,3 +1,9 @@
+---
+title: Stydy Git :: work on github
+key: 20180701
+tags: TeXt
+---
+
 Stydy Git :: work on github
 
 PREPARE: 
