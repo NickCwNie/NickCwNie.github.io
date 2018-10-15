@@ -6,7 +6,7 @@ tags: TeXt
 
 # Stydy Git :: work on github
 
-## PREPARE:
+## PREPARE
 + gitbash
   - tell gitbash who you are. git config --global user.name "xxx" (and user.email)
 + github account
@@ -14,7 +14,7 @@ tags: TeXt
   - [gb] = gitbash-side
   - [gh] = github-side
 
-## STEP:  
+## STEP  
 *[gb]*1. ssh-keygen -C "xxx@xxx.com"   # 注意一定要指定邮箱来生成key pair  
 *[gb]*1. cat ~/.ssh/id_rsa.pub, then copy output  
 *[gh]*2. github->settings, add ssh pub key  
