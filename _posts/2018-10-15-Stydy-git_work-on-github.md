@@ -1,7 +1,7 @@
 ---
-title: Stydy Git - work on github
-key: 20180701
-tags: TeXt
+title: Stydy git - work on github
+key: 20181015
+tags: Study-git
 ---
 
 # Stydy Git :: work on github
