@@ -1,7 +1,7 @@
 ---
 title: Stydy git - work on github
 key: 20181015
-tags: study StudyGit
+tags: study study-git
 ---
 
 # Stydy Git :: work on github
